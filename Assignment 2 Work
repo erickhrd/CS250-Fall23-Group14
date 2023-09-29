@@ -1,0 +1,30 @@
+Software Design Document: Clothing Store POS
+https://docs.google.com/document/d/1jiUtQfO4DDCAO-x7BuyG52wI-_ZHFI4WuIzcm32Ermw/edit : requirement specification doc
+https://docs.google.com/document/d/17DrYgRx7w-n3JYp-EKmSHE6L6t9-lU0S2kDVmymD70Q/edit : client interview
+
+System Description: 
+The system will allow employees to login using an employee ID and password or scanning of their employee ID card. Once they have logged in, they will enter the main page to select the action that they would like to perform. The user interface will be very simple and easy to navigate. The employee can select whether they would like to perform a transaction, and then have the option to refund or purchase. A barcode scanner will allow items to be added to a receipt, as well as employee IDs to be scanned. A card/chip reader will be employed to complete transactions. Employees can also choose to create reports based on the criteria that they input. For example, daily closing reports for cash/checks received, inventory reports for certain products, etc. Another module that employees can access will be the inventory module where they can access inventory and manage the inventory counts and updates using a categorically separated system. The software will be coded using JavaScript to ensure mobility between different devices and systems. 
+
+
+System Architecture Overview
+
+Architectural diagram of all major components
+UML Diagram/Description
+Description of classes
+Description of attributes
+Description of operations
+
+Development Plan/Timeline
+timeline
+start with the pos/ register software component
+inventory requires the cloud database
+reports are local as well.
+
+team size: 6
+project manager
+software developer + assistant developer
+quality assurance
+user interface/user experience designer
+hardware specialist
+
+
